@@ -1,0 +1,9 @@
+1.Output : A
+2.Input : Enter the string : Welcome
+Output : WELCOME
+3.Output : 2
+4.Output :11
+          12          
+5.Output :Error
+6. a++ is the error.Since array can't be incremented.
+7.11 22 33 44 55
